@@ -1,8 +1,8 @@
-
-// Write a method that takes in an Object,
-// an action as a String, "edit" or "delete",
-// a property,
-// a newValue.
+// Description:
+//      Write a method that takes in an Object,
+//      an action as a String, "edit" or "delete",
+//          a property,
+//          a newValue.
 // The Task is to perform the action.
 // If the action is "edit":
     // update the property value in the obj to the newValue.
