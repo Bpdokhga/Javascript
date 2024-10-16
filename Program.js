@@ -1,3 +1,13 @@
+
+// Write a method that takes in an Object,
+// an action as a String, "edit" or "delete",
+// a property,
+// a newValue.
+// The Task is to perform the action.
+// If the action is "edit":
+    // update the property value in the obj to the newValue.
+// If the action is "delete":
+    // remove the property from the obj and return the object.
 function performAction(obj, action, property, newValue)
 {
     if (!obj)
